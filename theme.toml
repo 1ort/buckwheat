@@ -1,10 +1,9 @@
-name = "risotto"
+name = "buckwheat"
 license = "MIT"
-licenselink = "https://github.com/joeroe/risotto/blob/master/LICENSE"
+licenselink = "https://github.com/1ort/buckwheat/blob/master/LICENSE"
 description = "A minimalist, responsive theme inspired by terminal ricing aesthetics."
 
-homepage = "https://github.com/joeroe/risotto"
-demosite = "https://risotto.joeroe.io"
+homepage = "https://github.com/1ort/buckwheat"
 
 tags = ["responsive", "minimal", "dark mode"]
 features = []
